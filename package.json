@@ -1,0 +1,23 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "Generate an HTML file of team via node",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caubenondo/team-generator.git"
+  },
+  "author": "Hai Duong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caubenondo/team-generator/issues"
+  },
+  "homepage": "https://github.com/caubenondo/team-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "jest": "^28.1.0"
+  }
+}
