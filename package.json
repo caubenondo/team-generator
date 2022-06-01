@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "start":"node index.js",
-    "reset":"node resetDist.js"
+    "start": "node index.js",
+    "reset": "node resetDist.js"
   },
   "repository": {
     "type": "git",

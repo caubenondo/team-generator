@@ -57,7 +57,7 @@ To run tests, run the following command:
 
 Here is the Video Walkthrough of the App
 
-[![WalkThrough Video](https://i9.ytimg.com/vi/DEmL64HK1Z4/mq3.jpg?sqp=CLDC3JQG&rs=AOn4CLConI8o0ONeDSr53mdxi05NXPX73g&retry=4)](https://youtu.be/DEmL64HK1Z4 "Team Generator HW challenge")
+[![WalkThrough Video](./src/playArtboard%201.png)](https://youtu.be/DEmL64HK1Z4 "Team Generator HW challenge")
 
 #### [Demo HTML](https://github.com/caubenondo/team-generator/blob/main/dist/index.html)
 
