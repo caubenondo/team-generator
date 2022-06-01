@@ -14,6 +14,7 @@ This is a Node.js command-line application that takes in info about employees of
 -   [License](#License)
 -   [Contributing](#Contributing)
 -   [Tests](#Tests)
+-   [App in Action](#Action)
 -   [Questions](#Questions)
 
 ## Installation <a name='Installation'></a>
@@ -51,6 +52,11 @@ To run tests, run the following command:
 ```
   npm test
 ```
+
+## App in Action <a name='Action'></a>
+
+Here is the Demo/Video Walkthrough of the App
+[Walkthrouhg Video](https://www.youtube.com/watch?v=DEmL64HK1Z4&ab_channel=HaiDuong)
 
 ## Questions <a name='Questions'></a>
 
