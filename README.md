@@ -56,12 +56,15 @@ To run tests, run the following command:
 ## App in Action <a name='Action'></a>
 
 Here is the Video Walkthrough of the App
+
 [![WalkThrough Video](https://i9.ytimg.com/vi/DEmL64HK1Z4/mq3.jpg?sqp=CLDC3JQG&rs=AOn4CLConI8o0ONeDSr53mdxi05NXPX73g&retry=4)](https://youtu.be/DEmL64HK1Z4 "Team Generator HW challenge")
 
 #### [Demo HTML](https://github.com/caubenondo/team-generator/blob/main/dist/index.html)
 
-with these inputs
+With these inputs
 ![Inputs](./src/TerminalInput.png)
+Final HTML
+![Final HTML](./src/FinalHTML.png)
 
 ## Questions <a name='Questions'></a>
 
