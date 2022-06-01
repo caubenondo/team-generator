@@ -9,6 +9,7 @@ This is a Node.js command-line application that takes in info about employees of
 ## Table of Contents
 
 -   [Installation](#Installation)
+-   [Start](#Start)
 -   [Usage](#Usage)
 -   [License](#License)
 -   [Contributing](#Contributing)
@@ -21,6 +22,14 @@ To install necessary dependencies, run the following command:
 
 ```
   npm i
+```
+
+## Start <a name='Start'></a>
+
+To start the app, run this command:
+
+```
+  npm start
 ```
 
 ## Usage <a name='Usage'></a>
