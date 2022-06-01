@@ -60,6 +60,9 @@ Here is the Video Walkthrough of the App
 
 #### [Demo HTML](https://github.com/caubenondo/team-generator/blob/main/dist/index.html)
 
+with these inputs
+![Inputs](./src/TerminalInput.png)
+
 ## Questions <a name='Questions'></a>
 
 If you have any questions about the repo, open an issue or contact me directly at caubenondo@gmail.com.
